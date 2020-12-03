@@ -1,0 +1,11 @@
+title: "ADEIRA '2021"
+name:  "ADEIRA '2021"
+description: "International Workshop on Automatic Debugging, Error and Impact Reporting Approaches 2021"
+exclude:
+  - ".gitignore"
+  - ".jekyll-cache"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+image:
+  path: /assets/favicon.png
