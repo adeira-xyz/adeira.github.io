@@ -49,9 +49,9 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 
 ## Programme committee
 
-* Michał J. Gajda, [Migamake Pte Ltd](https://migamake.com) _(chair)
-* Michał “phoe” Herda (#lisp @ Freenode IRC)
-* Vladimir Pantaleev (DustMite)
+* Michał J. Gajda, [Migamake Pte Ltd](https://migamake.com) _(chair)_
+* Michał “phoe” Herda ([#lisp @ Freenode IRC](https://netsplit.de/channels/details.php?room=%23lisp&net=freenode))
+* Vladimir Pantaleev ([DustMite](https://github.com/CyberShadow/DustMite))
 * TBA
 
 
