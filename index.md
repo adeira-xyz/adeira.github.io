@@ -10,16 +10,16 @@ The workshop is held as a part of [Programming Conference 2021](https://2021.pro
 # Important dates
 
 Abstract registration deadline
-    : January 15th, 2021
+  : January 15th, 2021
 
 Submission deadline
-    : January 20th, 2021
+  : January 20th, 2021
 
 Author response period
-    : February 14th-21st, 2021
+  : February 14th-21st, 2021
 
 Acceptance notification
-    : March 1st, 2021
+  : March 1st, 2021
 
 # Topics
 
