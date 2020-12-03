@@ -7,7 +7,6 @@ keywords: "data pipelines, haskell, scala, kafka, agile"
 ---
 The workshop is held as a part of [Programming Conference 2021](https://2021.programming-conference.org/).
 
-
 # Important dates
 
 Abstract registration deadline
