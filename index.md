@@ -52,17 +52,17 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 * Kenichi Asai, [Ochanomizu University](http://pllab.is.ocha.ac.jp/~asai/)
 * Michał J. Gajda, [Migamake Pte Ltd](https://migamake.com) _(chair)_
 * Michał “phoe” Herda [#lisp @ Freenode IRC](https://netsplit.de/channels/details.php?room=%23lisp&net=freenode)
-* Vladimir Pantaleev [DustMite](https://github.com/CyberShadow/DustMite)
+* Vladimir Panteleev [DustMite](https://github.com/CyberShadow/DustMite)
 * TBA
 
 
 # Submissions
 
-We original, unpublished papers of the following forms: full articles, extended abstracts, case studies.
+We welcome original, unpublished papers of the following forms: full articles, extended abstracts, case studies.
 
 
 Please submit your paper or extended abstract by EasyChair.
-You may [contact committee chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
+You may [contact the committee chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
 
 The paper evaluation will use the following criteria:
 * Novelty
