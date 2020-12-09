@@ -58,8 +58,8 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 * Michał J. Gajda, [Migamake Pte Ltd](https://migamake.com) _(chair)_
 * Michał “phoe” Herda [#lisp @ Freenode IRC](https://netsplit.de/channels/details.php?room=%23lisp&net=freenode)
 * Vladimir Panteleev [DustMite](https://github.com/CyberShadow/DustMite)
+* Francesco Spegni [Università Politecnica delle Marche](https://www.dii.univpm.it/francesco.spegni)
 * TBA
-
 
 # Submissions
 
