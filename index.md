@@ -60,6 +60,7 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 * Henrik Nilsson [University of Nottingham](http://www.cs.nott.ac.uk/~psznhn/)
 * Vladimir Panteleev [DustMite](https://github.com/CyberShadow/DustMite)
 * Francesco Spegni [Università Politecnica delle Marche](https://www.dii.univpm.it/francesco.spegni)
+* Dmitry Vostokov [DumpAnalysis.org](https://DumpAnalysis.org)
 * Vadim Zaytsev [Universiteit Twente](http://grammarware.net)
 * TBA
 
