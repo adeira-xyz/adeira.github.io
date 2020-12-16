@@ -1,8 +1,8 @@
 ---
 name: AFDP 2021
 page: AFDP 2021
-title: "International workshop on Agile and Functional Data Pipelines"
-description: "International workshop on Agile and Functional Data Pipelines"
+title: "International workshop on Automated Debugging Error and Impact Reporting Approaches"
+description: "International workshop on Automated Debugging Error and Impact Reporting Approaches"
 keywords: "data pipelines, haskell, scala, kafka, agile"
 ---
 The workshop is held as a part of [Programming Conference 2021](https://2021.programming-conference.org/).
