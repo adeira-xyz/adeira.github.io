@@ -76,8 +76,7 @@ and provide a introductions with use cases.
 
 We welcome original, unpublished papers of the following forms: full articles, extended abstracts, case studies.
 
-
-Please submit your paper or extended abstract by EasyChair.
+Please submit your paper or extended abstract [by EasyChair](https://easychair.org/conferences/?conf=adeira2021).
 You may [contact the committee chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
 
 The paper evaluation will use the following criteria:
