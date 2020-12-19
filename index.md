@@ -62,7 +62,6 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 * Francesco Spegni [Università Politecnica delle Marche](https://www.dii.univpm.it/francesco.spegni)
 * Dmitry Vostokov [DumpAnalysis.org](https://DumpAnalysis.org)
 * Vadim Zaytsev [Universiteit Twente](http://grammarware.net)
-* TBA
 
 # Submissions
 
@@ -79,6 +78,8 @@ The paper evaluation will use the following criteria:
 * Scientific rigour and form of the article
 * Cross-pollination potential with other papers
 * Preliminary papers will be offered feedback on how to improve the quality in all these factors before and during the workshop
+
+All submissions should use [ACM DL template](https://www.acm.org/publications/proceedings-template).
 
 # Proceedings
 Like other workshops of the conference, we plan to include selected papers in ACM DL post-proceedings.
