@@ -37,6 +37,11 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 * Error monitoring in intrusion detection systems
 * Delta debugging
 * Automatic generation of error dashboards
+* Global fault analysis of systems with both computational and human component, and cyber-physical systems.
+
+Note that workshop particularly encourage treatment of all kinds of errors, be they compile-time, run-time,
+discrepancies between intent and specification, hardware failures, or human errors to the degree to which they
+are amenable to automatic analysis and reporting.
 
 ## Intended audience
 
@@ -45,6 +50,10 @@ Automatic debugging, error fixing, and reporting is getting more and more popula
 * Academics in quest for formalization of automated error analysis and fixing
 * Financial industry practitioners interested in computer science approaches
   to satisfy risk reporting guidelines with respect to error impact tracing and reporting of accuracy
+* Management scientist looking for automatic global fault reporting and impact reporting methodologies.
+
+Because of this, we encourage you to reference used theories and methodologies,
+and provide a introductions with use cases.
 
 ## Goals
 
@@ -82,6 +91,7 @@ The paper evaluation will use the following criteria:
 All submissions should use [ACM DL template](https://www.acm.org/publications/proceedings-template).
 
 # Proceedings
+
 Like other workshops of the conference, we plan to include selected papers in ACM DL post-proceedings.
 
 
