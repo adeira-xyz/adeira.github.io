@@ -74,7 +74,7 @@ and provide a introductions with use cases.
 
 # Submissions
 
-We welcome original, unpublished papers of the following forms: full articles, extended abstracts (up to 5 pages), case studies.
+We welcome original, unpublished papers of the following forms: full articles, case studies (up to 16 pages without references), and extended abstracts (up to 4 pages without references).
 
 Please submit your paper or extended abstract [by EasyChair](https://easychair.org/conferences/?conf=adeira2021).
 You may [contact the committee chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
